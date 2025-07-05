@@ -1,4 +1,7 @@
 # PROJECT: BARS
+![Screenshot 2025-07-05 160646](https://github.com/user-attachments/assets/ba66c7da-d65c-43fe-bd49-112b2f5330d7)
+![Screenshot 2025-07-05 161748](https://github.com/user-attachments/assets/5b323947-18f0-4abf-86c7-b22ad91e4d52)
+
 ## Description
 Project Barley is the This project combines drones with the capabilities that GPS has to offer. In particular, the project is an autonomous, self-navigating drone using multiple sensors to reach a coordinate and return back home, all with one goal: to deliver a package. This project is a culmination of the resources currently available to autonomous vehicle designing on the internet, and companies like Zipline. 
 
