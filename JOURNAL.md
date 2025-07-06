@@ -48,6 +48,9 @@ So, first I was thinking of using a wifi router + esp32, then realized i have no
 3. satelite data (wayyyy too expensive, but would work with ANY coordinate in the world)
 4. sd card (simple hardware, but requires the drone to come back)
 Cellular seems like the best bet due to its pretty good range (as long as there is a cell tower in proximity) as well as its affordability. Found a well-priced SIM 4G/5G modem that can be used to transmit data: "Puffin Smart 4G LTE-Advanced USB WiFi"
+
+Also, finished a wiring schematic for the avionics:
+![Screenshot 2025-07-05 162947](https://github.com/user-attachments/assets/6c0809b6-622c-4c4a-a868-6052969af5fd)
 ## allotted time: 7 hours
 
 # 2025-07-05
