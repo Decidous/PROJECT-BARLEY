@@ -11,7 +11,7 @@ User uploads target coordinates
 2. Drone is sent off, calculating a simple route towards the coordinates
 3. After coordinates are reached, it’s hatches below open and perform a 180 clockwise fight reroute back home
 4. Drone is caught with a net for simplicity sake
-## Why I built it
+## Why I want to build it
 * Project has been halted for a whole year
 I started designing this project a year ago, but then I stopped because I was too focused on rocketry. I am focusing on this project again now because it has a lot of potential for real-world applications. 
 * This tech is not very available around the world
