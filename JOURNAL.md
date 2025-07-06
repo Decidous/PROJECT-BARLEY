@@ -1,9 +1,10 @@
 
-## Title: "Project: BARS"
-## Author: "Decidous"
-## Description: "AUV capable of delivering packages via the use of GPS coordinates!"
-## Created_at: "2025-06-27"
+Title: "Project: BARS" <br>
+Author: "Decidous" <br>
+Description: "AUV capable of delivering packages via the use of GPS coordinates!" <br>
+Created_at: "2025-06-27" <br>
 
+#Total Time: 32 Hours
 # 2025-06-28
 Started this project amidst a vacation outside of the United States, so time available to work on this project is limited daily. Started part outsourcing: I started looking at the parts needed, but got only the main ones down (aka ESP32-WROOM, accelerometer + barometer + magnometer, etc) planning to continue the GPS/autonomous parts selection of this project some future date. These are the main components I usually use for my rocketry projects.
 ## Allotted time: 2 hours
