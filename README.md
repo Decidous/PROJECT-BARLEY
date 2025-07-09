@@ -19,7 +19,7 @@ Zipline is my biggest inspiration, but they have limited hubs. I’d like to sim
 * I think aerospace is cool
 Everything aerospace related is super interesting to me, and although I switched my major from aerospace engineering to chemistry, I still super like the industry’s challenges and what they strive to solve. This is a main reason why I do rocketry and is trying to expand on my experiences on the field.
 
-#BOM
+# BOM ($92.96 total)
 | Platform                          | Description                                                | Price per listed lot | # of parts per listed lot | Lots to purchase | Final Price (CAD) | Final Price (USD) | Already Owned? | Comments | Link |
 |----------------------------------|------------------------------------------------------------|-----------------------|----------------------------|------------------|--------------------|--------------------|----------------|----------|------|
 | (2x) SG90 Servo                  | Heavier, larger load servo type for wing flap control     | $7.99                 | 4                          | 1                | 10.86              | 7.99               | yes            |          | [Link](https://www.amazon.com/Micro-Servos-Helicopter-Airplane-Controls/dp/B07MLR1498/ref=sr_1_6) |
